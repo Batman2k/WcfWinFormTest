@@ -1,0 +1,11 @@
+F:\C#\TFS\Store\StoreWinForms\bin\Debug\StoreWinForms.exe.config
+F:\C#\TFS\Store\StoreWinForms\obj\Debug\StoreWinForms.Properties.Resources.resources
+F:\C#\TFS\Store\StoreWinForms\obj\Debug\StoreWinForms.csproj.GenerateResource.Cache
+F:\C#\TFS\Store\StoreWinForms\bin\Debug\StoreWinForms.exe
+F:\C#\TFS\Store\StoreWinForms\bin\Debug\StoreWinForms.pdb
+F:\C#\TFS\Store\StoreWinForms\obj\Debug\StoreWinForms.exe
+F:\C#\TFS\Store\StoreWinForms\obj\Debug\StoreWinForms.pdb
+F:\C#\TFS\Store\StoreWinForms\obj\Debug\StoreWinForms.ArticleForm.resources
+F:\C#\TFS\Store\StoreWinForms\obj\Debug\StoreWinForms.MainForm.resources
+F:\C#\TFS\Store\StoreWinForms\obj\Debug\StoreWinForms.OrderForm.resources
+F:\C#\TFS\Store\StoreWinForms\obj\Debug\StoreWinForms.UserForm.resources

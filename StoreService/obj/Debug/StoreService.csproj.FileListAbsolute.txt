@@ -1,0 +1,10 @@
+F:\C#\TFS\Store\StoreService\bin\StoreService.dll.config
+F:\C#\TFS\Store\StoreService\bin\StoreService.dll
+F:\C#\TFS\Store\StoreService\bin\StoreService.pdb
+F:\C#\TFS\Store\StoreService\bin\EntityFramework.dll
+F:\C#\TFS\Store\StoreService\bin\EntityFramework.SqlServer.dll
+F:\C#\TFS\Store\StoreService\bin\EntityFramework.xml
+F:\C#\TFS\Store\StoreService\bin\EntityFramework.SqlServer.xml
+F:\C#\TFS\Store\StoreService\obj\Debug\StoreService.dll
+F:\C#\TFS\Store\StoreService\obj\Debug\StoreService.pdb
+F:\C#\TFS\Store\StoreService\obj\Debug\StoreService.csprojResolveAssemblyReference.cache

@@ -1,0 +1,1 @@
+F:\C#\TFS\Store\StoreWinForms\bin\Release\StoreWinForms.exe.config

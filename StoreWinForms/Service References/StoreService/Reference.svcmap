@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="c87b0e0c-5688-4b58-985a-bbc71033e9fa" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:4081/StoreService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="StoreService.xsd" MetadataType="Schema" ID="52342468-20a8-4af0-8e12-ea80917fad23" SourceId="1" SourceUrl="http://localhost:4081/StoreService.svc?xsd=xsd1" />
+    <MetadataFile FileName="StoreService1.xsd" MetadataType="Schema" ID="73b2356c-60ce-4536-b12d-1e1c219c9481" SourceId="1" SourceUrl="http://localhost:4081/StoreService.svc?xsd=xsd0" />
+    <MetadataFile FileName="StoreService.wsdl" MetadataType="Wsdl" ID="e95886bd-4ed7-4513-aadf-983dd6b0b516" SourceId="1" SourceUrl="http://localhost:4081/StoreService.svc?wsdl" />
+    <MetadataFile FileName="StoreService2.xsd" MetadataType="Schema" ID="f787f8c3-27a5-4424-8d85-e52fe6542fa6" SourceId="1" SourceUrl="http://localhost:4081/StoreService.svc?xsd=xsd2" />
+    <MetadataFile FileName="StoreService.disco" MetadataType="Disco" ID="d2def1f3-642e-4b0e-b419-fa79b60e4f17" SourceId="1" SourceUrl="http://localhost:4081/StoreService.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
