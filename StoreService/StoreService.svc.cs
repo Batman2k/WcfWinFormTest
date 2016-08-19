@@ -5,7 +5,6 @@ using System.Linq;
 using System.ServiceModel;
 using StoreService.Models;
 
-//TODO reformat @ re#
 namespace StoreService
 {
     public class StoreService : IStoreService
